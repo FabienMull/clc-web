@@ -1,4 +1,3 @@
-// Page d’accueil simplifiée
 export default function Home() {
   return (
     <div style={{
